@@ -1,0 +1,2 @@
+Prefix plugins/SampleDepth/example/
+Plugin SampleDepth inputfile regionmatrix.fullCov.rds outputfile models.rds
